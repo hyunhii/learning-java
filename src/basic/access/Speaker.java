@@ -1,7 +1,8 @@
 package basic.access;
 
 public class Speaker {
-    int volume;
+
+    private int volume;
 
     Speaker(int volume) {
         this.volume = volume;
